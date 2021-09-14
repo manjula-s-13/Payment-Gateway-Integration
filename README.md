@@ -14,6 +14,6 @@ Front End :-
 
     Html
     CSS
-    JS
+    
 # Gateway Used
 * RazorPay
